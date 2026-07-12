@@ -15,5 +15,5 @@ an simple but strong oxwm rice based on catppuccin mocha... it will include dotf
 ## Showcase
 
 ![Desktop](screenshots/2026-07-12_20-51.png)
-![rofi](screenshots/2026-07-12_20-52.png)
-![alacritty with fastfetch](screenshots/2026-07-12_20-53.png)
+![rofi](screenshots/2026-07-12_21-29.png)
+![alacritty with fastfetch](screenshots/2026-07-12_21-30.png)
