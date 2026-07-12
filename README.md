@@ -19,6 +19,12 @@ an simple but strong oxwm rice based on catppuccin mocha... it will include dotf
 - screnshoot tool (optional):  flameshot
 - font for the bar (optional but default in the config): jetbrains mono nerd
 
+## 🛠️ How to Customize
+I've kept the config clean and easy to edit:
+- **Wallpaper:** Change your image file in `~/Pictures/wallpaper/` and update the path in your `feh` command or `oxwm` config.
+- **Colors:** If you want to tweak the Catppuccin accents, check the `color` variables inside `oxwm/config.lua` or your `.rasi` file.
+- **Font:** To change the font size, edit the `font` line in `alacritty/alacritty.toml`.
+
 ## Showcase
 
 ![Desktop](screenshots/2026-07-12_20-51.png)
