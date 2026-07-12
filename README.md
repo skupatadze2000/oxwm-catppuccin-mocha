@@ -5,6 +5,12 @@
 # oxwm-catppuccin-mocha-rice
 an simple but strong oxwm rice based on catppuccin mocha... it will include dotfiles for oxwm, picom, grub and rofi
 
+## Showcase
+
+![Desktop](screenshots/2026-07-12_20-51.png)
+![rofi](screenshots/2026-07-12_21-29.png)
+![alacritty with fastfetch](screenshots/2026-07-12_21-30.png)
+
 ## Why OxWM & Catppuccin
 *oxwm* is lowk fast ngl, lightweight af, tho dotfiles expecially for catppuccin are rare . Pairing it with the **Catppuccin Mocha** makes it ez to find, giving you a best (no cap), easy-on-the-eyes interface while keeping your system lightning fast and minimal.
 
@@ -36,12 +42,6 @@ Here are the default bindings to get you started:
 | Close Window | `Super + Q` |
 | Restart OxWM | `Super + Shift + R` |
 | Take Screenshot | `Print` |
-
-## Showcase
-
-![Desktop](screenshots/2026-07-12_20-51.png)
-![rofi](screenshots/2026-07-12_21-29.png)
-![alacritty with fastfetch](screenshots/2026-07-12_21-30.png)
 
 ## 🎨 Credits
 - **Color Palette:** Big thanks to the [Catppuccin](https://github.com/catppuccin/catppuccin) team for the amazing Mocha theme.
