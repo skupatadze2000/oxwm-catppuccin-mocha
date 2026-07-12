@@ -5,6 +5,9 @@
 # oxwm-catppuccin-mocha-rice
 an simple but strong oxwm rice based on catppuccin mocha... it will include dotfiles for oxwm, picom, grub and rofi
 
+## Why OxWM & Catppuccin
+*oxwm* is a fast, lightweight window manager, but finding clean and cohesive themes for it can be a challenge. Pairing it with the **Catppuccin Mocha** palette bridges that gap, giving you a gorgeous, easy-on-the-eyes interface while keeping your system lightning fast and minimal.
+
 ## Things Needed For The Dotfiles
 - window manager: oxwm
 - terminal: alacritty
