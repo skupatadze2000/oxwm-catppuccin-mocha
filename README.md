@@ -6,7 +6,7 @@
 an simple but strong oxwm rice based on catppuccin mocha... it will include dotfiles for oxwm, picom, grub and rofi
 
 ## Why OxWM & Catppuccin
-*oxwm* is a fast, lightweight window manager, but finding clean and cohesive themes for it can be a challenge. Pairing it with the **Catppuccin Mocha** palette bridges that gap, giving you a gorgeous, easy-on-the-eyes interface while keeping your system lightning fast and minimal.
+*oxwm* is lowk fast ngl, lightweight af, tho dotfiles expecially for catppuccin are rare . Pairing it with the **Catppuccin Mocha** makes it ez to find, giving you a best (no cap), easy-on-the-eyes interface while keeping your system lightning fast and minimal.
 
 ## Things Needed For The Dotfiles
 - window manager: oxwm
@@ -20,7 +20,7 @@ an simple but strong oxwm rice based on catppuccin mocha... it will include dotf
 - font for the bar (optional but default in the config): jetbrains mono nerd
 
 ## 🛠️ How to Customize
-I've kept the config clean and easy to edit:
+I've kept the config clean and ez to edit:
 - **Wallpaper:** Change your image file in `~/Pictures/wallpaper/` and update the path in your `feh` command or `oxwm` config.
 - **Colors:** If you want to tweak the Catppuccin accents, check the `color` variables inside `oxwm/config.lua` or your `.rasi` file.
 - **Font:** To change the font size, edit the `font` line in `alacritty/alacritty.toml`.
