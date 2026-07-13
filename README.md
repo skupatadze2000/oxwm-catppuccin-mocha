@@ -1,17 +1,7 @@
-![Linux](https://img.shields.io/badge/OS-Linux-blue)
-![WM](https://img.shields.io/badge/WM-oxwm-green)
-![Theme](https://img.shields.io/badge/Theme-Catppuccin-pink)
-
 # oxwm-catppuccin-mocha-rice
 an simple but strong oxwm rice based on catppuccin mocha... it will include dotfiles for oxwm, picom, grub and rofi
 
 ![larp](screenshots/2026-07-13_08-38.png)
-
-## Showcase
-
-![Desktop](screenshots/2026-07-12_20-51.png)
-![rofi](screenshots/2026-07-12_21-29.png)
-![alacritty with fastfetch](screenshots/2026-07-12_21-30.png)
 
 ## Why OxWM & Catppuccin
 *oxwm* is lowk fast ngl, lightweight af, tho dotfiles expecially for catppuccin are rare . Pairing it with the **Catppuccin Mocha** makes it ez to find, giving you a best (no cap), easy-on-the-eyes interface while keeping your system lightning fast and minimal.
@@ -23,9 +13,13 @@ an simple but strong oxwm rice based on catppuccin mocha... it will include dotf
 - compositor (for rounded corners): picom
 - wallpaper setter: feh
 - bootloader (for system): grub
-- system fetch (optional): fastfetch
+- system fetch (optional): pfetch
 - screnshoot tool (optional):  flameshot
 - font for the bar (optional but default in the config): jetbrains mono nerd
+- video recording (optional): obs studio
+- bonai (optional): cbonai
+- terminal clock (optional): tty-clock
+- matrix (optional): cmatrix
 
 ## 🛠️ How to Customize
 I've kept the config clean and ez to edit:
