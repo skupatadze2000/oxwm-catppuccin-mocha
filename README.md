@@ -1,7 +1,7 @@
 # oxwm-catppuccin-mocha-rice
 an simple but strong oxwm rice based on catppuccin mocha... it will include dotfiles for oxwm, picom, grub and rofi
 
-![larp](screenshots/2026-07-13_08-38.png)
+![larp](screenshots/2026-07-13_20-36.png)
 
 ## Why OxWM & Catppuccin
 *oxwm* is lowk fast ngl, lightweight af, tho dotfiles expecially for catppuccin are rare . Pairing it with the **Catppuccin Mocha** makes it ez to find, giving you a best (no cap), easy-on-the-eyes interface while keeping your system lightning fast and minimal.
